@@ -1,0 +1,2 @@
+obj/local/armeabi/objs/mylib/cn_itrunner_ndk_test3_MainActivity.o: \
+ jni/cn_itrunner_ndk_test3_MainActivity.c
